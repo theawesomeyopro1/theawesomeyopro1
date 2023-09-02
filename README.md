@@ -1,16 +1,19 @@
-### Hi there 👋
+# Hi, I'm Awesome 👋
 
-<!--
-**theawesomeyopro1/theawesomeyopro1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile!
 
-Here are some ideas to get you started:
+## My Work
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- [Solar Tweaks](https://github.com/theawesomeyopro1/SolarTweaks): Solar Tweaks is a mod for lunar client.
+- [Ransomeware](https://gituhb.com/theawesomeyopro1/Malware): Simple Ransomware written in python.
+- [Donut](https://github.com/theawesomeyopro1/donutcpp): Spinning donut written in C++.
+
+## Connect with Me
+
+- Dicord: rhea_real
+
+## Fun Facts
+
+- I am a redstone engineer.
+
+Thanks for stopping by!
