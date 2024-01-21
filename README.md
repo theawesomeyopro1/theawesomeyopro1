@@ -1,4 +1,4 @@
-(gif.gif)
+!(gif.gif)
 
 ## Welcome to my GitHub profile!
 
