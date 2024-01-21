@@ -1,4 +1,4 @@
-# Hi, I'm Awesome 👋
+![Awesome GIF](gif.gif)
 
 Welcome to my GitHub profile!
 
