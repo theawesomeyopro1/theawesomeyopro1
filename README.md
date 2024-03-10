@@ -11,6 +11,6 @@
 
 ## How to contact me?
 
-- Dicord: rhea_real
+- Dicord: theawesomeyopro
 
 Thanks for stopping by!
