@@ -12,6 +12,6 @@
 
 ## How to contact me?
 
-- Dicord: theawesomeyopro
+- Discord: theawesomeyopro
 
 Thanks for stopping by!
