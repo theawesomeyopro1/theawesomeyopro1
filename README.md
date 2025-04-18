@@ -12,6 +12,6 @@
 
 ## How to contact me?
 
-- Discord: theawesomeyopro
+- Discord: "1._.marvel._.1"
 
 Thanks for stopping by!
