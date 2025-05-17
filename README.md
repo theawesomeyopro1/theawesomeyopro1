@@ -9,7 +9,7 @@
 - [Donut](https://github.com/theawesomeyopro1/donutcpp): Spinning donut written in C++.
 - [LCQT2](https://github.com/theawesomeyopro1/LCQT2): Lunar client QT2 is a tweaking tool for Lunar Client, offering a wide range of modifications, including the ability to use mods which are unavailable by default.
 - [.zshrc](https://github.com/theawesomeyopro1/.zshrc): My personal customized shell for zsh
-- [repositories](https://github.com/theawesomeyopro1?tab=repositories): < click the repos button for more
+- [Other repos](https://github.com/theawesomeyopro1?tab=repositories): < click the repos button for more
 
 ## How to contact me?
 
