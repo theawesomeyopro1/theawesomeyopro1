@@ -13,6 +13,6 @@
 
 ## How to contact me?
 
-- [Discord](https://discordapp.com/users/693381368389828630)
+- [Discord](https://discordapp.com/users/1355915241455878165)
 
 Thanks for stopping by!
