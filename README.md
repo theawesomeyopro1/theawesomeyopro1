@@ -13,6 +13,6 @@
 
 ## How to contact me?
 
-- Discord: "1._.marvel._.1"
+- [Discord](https://discordapp.com/users/693381368389828630)
 
 Thanks for stopping by!
