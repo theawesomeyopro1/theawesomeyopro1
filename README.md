@@ -1,6 +1,6 @@
-<h1 align="center">Hi 👋, I'm Raunak</h1>
+<h1 align="center">Hi 👋</h1>
 <p align="center">
-  ⚡ Just a student who loves Linux, tweaking things, and building cool stuff  
+  ⚡ Just a person who loves Linux, tweaking things, and building cool stuff  
 </p>
 
 ---
@@ -8,7 +8,7 @@
 ### 💻 About Me
 
 - 🎮 I'm into gaming and Linux customization (Hyprland gang 😎)  
-- 🧠 Currently exploring: **Flutter**, **Electron**, and **Arch internals**  
+- 🧠 Currently exploring: **Flutter**, **Electron**, and **Arch linux**  
 - 💡 Projects I'm working on: `Solar Tweaks`, `Dotfiles`, and some random AGS bars  
 - 🧰 Using: Arch Linux + Hyprland + Fish + Starship + NVChad  
 - 🌱 Learning how to make clean UIs and smooth animations
@@ -41,8 +41,8 @@
 ### 📬 Connect with me
 
 <p align="left">
-  <a href="mailto:youremail@example.com"><img src="https://img.shields.io/badge/Email-grey?style=for-the-badge&logo=gmail"></a>
-  <a href="https://discord.com/users/yourdiscordid"><img src="https://img.shields.io/badge/Discord-grey?style=for-the-badge&logo=discord"></a>
+  <a href="mailto:theawesomeyopro@gmail.com"><img src="https://img.shields.io/badge/Email-grey?style=for-the-badge&logo=gmail"></a>
+  <a href="https://discord.com/users/1355915241455878165"><img src="https://img.shields.io/badge/Discord-grey?style=for-the-badge&logo=discord"></a>
 </p>
 
 ---
