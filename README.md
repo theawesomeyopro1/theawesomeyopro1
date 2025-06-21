@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋</h1>
 <p align="center">
-  ⚡ Just a person who loves Linux, tweaking things, and building cool stuff  
+  ⚡ Just a person who loves making linux projects, and building cool stuff  
 </p>
 
 ---
