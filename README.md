@@ -1,17 +1,7 @@
-<h1 align="center">Hi 👋</h1>
+<h1 align="center">Welcome to my profile.👋</h1>
 <p align="center">
   ⚡ Just a person who loves making linux projects, and building cool stuff  
 </p>
-
----
-
-### 💻 About Me
-
-- 🎮 I'm into gaming and Linux customization (Hyprland gang 😎)  
-- 🧠 Currently exploring: **Flutter**, **Electron**, and **Arch linux**  
-- 💡 Projects I'm working on: `Solar Tweaks`, `Dotfiles`, and some random AGS bars  
-- 🧰 Using: Arch Linux + Hyprland + Fish + Starship + NVChad  
-- 🌱 Learning how to make clean UIs and smooth animations
 
 ---
 
