@@ -31,9 +31,9 @@
 ### 📬 Connect with me
 
 <p align="left">
-  Discord:
+  Discord: </br>
   <a href="https://discord.com/users/1355915241455878165"><img src="https://img.shields.io/badge/Discord-grey?style=for-the-badge&logo=discord"></a> </br>
-  Discord server:
+  Discord server: </br>
   <a href="https://discord.gg/eXkGrcvdsV"><img src="https://img.shields.io/badge/Discord-grey?style=for-the-badge&logo=discord"></a>
 </p>
 
