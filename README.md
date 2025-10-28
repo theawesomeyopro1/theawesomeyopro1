@@ -30,12 +30,18 @@
 
 ### 📬 Connect with me
 
-<p align="left">
-  Discord: </br>
-  <a href="https://discord.com/users/1355915241455878165"><img src="https://img.shields.io/badge/Discord-grey?style=for-the-badge&logo=discord"></a> </br>
-  Discord server: </br>
-  <a href="https://discord.gg/eXkGrcvdsV"><img src="https://img.shields.io/badge/Discord-grey?style=for-the-badge&logo=discord"></a>
+<p align="center">
+  <h3 align="center">💬 Discord</h3>
+  <p align="center">
+    <a href="https://discord.com/users/1355915241455878165">
+      <img src="https://img.shields.io/badge/Profile-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Profile"/>
+    </a>
+    <a href="https://discord.gg/eXkGrcvdsV">
+      <img src="https://img.shields.io/badge/Server-404EED?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Server"/>
+    </a>
+  </p>
 </p>
+
 
 ### 
 
