@@ -22,8 +22,8 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Developer123-bit&show_icons=true&theme=radical" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Developer123-bit&layout=compact&theme=radical" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=theawesomeyopro1&show_icons=true&theme=radical" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=theawesomeyopro1&layout=compact&theme=radical" height="180"/>
 </p>
 
 ---
@@ -31,9 +31,13 @@
 ### 📬 Connect with me
 
 <p align="left">
-  <a href="mailto:theawesomeyopro@gmail.com"><img src="https://img.shields.io/badge/Email-grey?style=for-the-badge&logo=gmail"></a>
+  Discord:
   <a href="https://discord.com/users/1355915241455878165"><img src="https://img.shields.io/badge/Discord-grey?style=for-the-badge&logo=discord"></a>
+  Discord server:
+  <a href="https://discord.gg/eXkGrcvdsV"><img src="https://img.shields.io/badge/Discord-grey?style=for-the-badge&logo=discord"></a>
 </p>
+
+### 
 
 ---
 
