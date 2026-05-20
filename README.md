@@ -22,29 +22,6 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=theawesomeyopro1&show_icons=true&theme=radical" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=theawesomeyopro1&layout=compact&theme=radical" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=0pl1v10n&show_icons=true&theme=radical" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0pl1v10n&layout=compact&theme=radical" height="180"/>
 </p>
-
----
-
-### 📬 Connect with me
-
-<p align="center">
-  <h3 align="center">💬 Discord</h3>
-  <p align="center">
-    <a href="https://discord.com/users/1355915241455878165">
-      <img src="https://img.shields.io/badge/Profile-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Profile"/>
-    </a>
-    <a href="https://discord.gg/eXkGrcvdsV">
-      <img src="https://img.shields.io/badge/Server-404EED?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Server"/>
-    </a>
-  </p>
-</p>
-
-
-### 
-
----
-
-> *“Stay rice, stay Arch.”*
